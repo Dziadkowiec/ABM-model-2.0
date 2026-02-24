@@ -3,6 +3,8 @@ from BakeryClass import CompanyBakery
 from CompanyFarm import CompanyFarm
 from ModelLoop import ModelLoopInteractive
 
+#test githuba
+
 #Founder, c1
 p1 = Person(1, True, True, None)
 c1 = CompanyBakery(10, p1)
